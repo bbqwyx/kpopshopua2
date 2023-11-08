@@ -1,53 +1,66 @@
 header p {
-    text-align:center;
+    text-align: center;
     background-color: lightcyan;
-    color:deepskyblue;
-    font-family:Courier New;
-    border:2px solid dodgerblue;
-    border-radius:17.5px;
+    color: deepskyblue;
+    font-family: Courier New;
+    border: 2px solid dodgerblue;
+    border-radius: 17.5px;
 }
 nav {
-    text-align:center;
-    margin:15px;
-    padding:15px;
-    border:2px solid dodgerblue;
-    border-radius:17.5px;
+    text-align: center;
+    margin: 15px;
+    padding: 15px;
+    border: 2px solid dodgerblue;
+    border-radius: 17.5px;
     background-color: lightcyan;
 }
 nav a {
-    margin:17.5px;
-    text-decoration:none;
-    font-size:20px;
-    color:white;
+    margin: 17.5px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
     border: 2px solid dodgerblue;
-    border-radius:12.55px;
-    padding:7px;
-    background-color:lightskyblue;
+    border-radius: 12.55px;
+    padding: 7px;
+    background-color: lightskyblue;
 }
 h1 {
-    text-align:center;
-    font-family:Courier New;
-    color:deepskyblue;
-    font-size:35px;
+    text-align: center;
+    font-family: Courier New;
+    color: deepskyblue;
+    font-size: 35px;
 }
 main img {
-    border:2px solid dodgerblue;
-    border-radius:17.5px;
+    border: 2px solid dodgerblue;
+    border-radius: 17.5px;
 }
 table {
-    text-align:center;
-    border-collapse:collapse;
-    border:2px solid dodgerblue;
-    border-radius:17.5px;
+    text-align: center;
+    border-collapse: collapse;
+    border: 2px solid dodgerblue;
+    border-radius: 17.5px;
 }
 tr {
-    color:deepskyblue;
-    border:2px solid dodgerblue;
-    border-radius:17.5px;
+    color: deepskyblue;
+    border: 2px solid dodgerblue;
+    border-radius: 17.5px;
 }
 td {
-    color:deepskyblue;
-    text-align:center;
+    color: deepskyblue;
+    text-align: center;
+}
+body {
+    background-color: aliceblue;
+}
+p {
+    font-family: sans-serif;
+    color: deepskyblue;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: rgb(160, 177, 255);
+}
 }
 body {
     background-color: aliceblue;
