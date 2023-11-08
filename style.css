@@ -61,6 +61,11 @@ a {
     text-decoration: none;
     color: rgb(160, 177, 255);
 }
-body {
-    background-color: aliceblue;
+footer {
+    background-color: lightskyblue;
+    border: 2px solid dodgerblue;
+    border-radius: 17.5px;
+}
+footer p {
+    color: white;
 }
